@@ -1,6 +1,6 @@
 <!-- resources/views/auth/login.blade.php -->
-<!--extends('layouts.app')-->
-@extends('template')
+@extends('layouts.app')
+<!--extends('template')-->
 @section('content')
   <div class="container">
     <h2>Login</h2>
